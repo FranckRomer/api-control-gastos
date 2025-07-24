@@ -1,0 +1,1 @@
+# Configuraciones centrales de la aplicación 
